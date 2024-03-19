@@ -1,0 +1,13 @@
+
+button:hover .image {
+    border: 2px solid orange;
+  }
+  
+  .background {
+    position: relative;
+  }
+
+  .selected {
+    background-color: orange;
+  }
+  
